@@ -1,0 +1,25 @@
+/* .main{ */
+    /* height: 600px; */
+    /* border: solid black; */
+    
+/* } */
+
+
+.a,.b,.c,.d,.e,.f,.g,.h{
+    width: 300px;
+    /* border: solid blue; */
+    /* height: 300px; */
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+
+}
+
+img{ width: 100%;}
+
+p{ position: absolute; 
+    background-color: black;
+     color: white;
+     top: 0;
+     margin: 0;
+    }
